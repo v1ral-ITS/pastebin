@@ -3,7 +3,7 @@
 #// operating systems presense of any needed package.
 
 #/#/ Define any tools needed here seperated only by a "\:space:"\
-needed_tool=' yad pastebin cat echo curl '
+needed_tool=' yad pastebin cat echo curl xsel '
 
 #//* Begin System Tool Search
 require_tools ()
