@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #//+ ITS_ function to easily check the,
 #// operating systems presense of any needed package.
 
